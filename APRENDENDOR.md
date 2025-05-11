@@ -1,7 +1,7 @@
 # O que é o R? E o RStudio? Qual a diferença?
 
 O R é uma linguagem de programação utilizada para manipulação, análise e visualização de dados. 
-O RStudio é um ambiente de desenvolvimento integrado (IDE) para o R.A diferença entre eles é que o R é uma linguagem de programação, já o RStudio é uma IDE para o R. Entendeu?
+O RStudio é um ambiente de desenvolvimento integrado (IDE) para o R.A diferença entre eles é que o R é uma linguagem de programação, já o RStudio é uma IDE para o R, entendeu?
 
 Sobre a escrita, meus professores me passaram algumas dicas e eu vou repassar pra você:
 
